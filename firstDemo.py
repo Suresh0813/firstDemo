@@ -1,0 +1,2 @@
+# firstDemo
+print("hello world")
